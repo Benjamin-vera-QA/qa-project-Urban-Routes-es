@@ -54,7 +54,6 @@ Este proyecto automatiza todo el flujo de reserva de un taxi, validando la corre
    | ✅ `test_order_2_ice_creams`          | Agregar 2 helados como extra                         |
    | ✅ `test_the_cab_search_mode_appears` | Finalizar solicitud y buscar conductor               |
    
-## 👨‍💻 Autor
 Benjamín Vera - QA Engineer en formación 🚀
 
 Proyecto realizado en el bootcamp TripleTen
